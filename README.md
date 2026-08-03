@@ -272,6 +272,14 @@ cp examples/decision-template.md my-decision.md
 
 同时整合了本地Claude技能：`jobs-product`、`yujun-product`、`bezos-strategy`、`musk-strategy`、`ceo-skill`、`elon-musk-skill`、`dbs-decision`
 
+### 相关工具
+
+| 工具 | 功能 | 使用场景 |
+|-----|------|---------|
+| [product-security-review](./product-security-review.md) | 产品安全审核 | 产品上线前的安全检查，特别针对 vibe coding 项目 |
+
+**📖 说明**：产品安全审核不是决策框架，而是产品开发过程中的质量保障工具，确保产品在追求速度的同时不忽视安全基线。
+
 ## 💡 设计理念
 
 ### 1️⃣ 系统化 > 单一方法论
